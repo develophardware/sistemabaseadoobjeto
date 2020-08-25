@@ -1,0 +1,1 @@
+javac -d /home/dirceu/projects/dsd/target/scala-2.10/classes -classpath /home/dirceu/projects/dsd/target/scala-2.10/classes:/home/dirceu/.sbt/boot/scala-2.10.3/lib/scala-library.jar:/home/dirceu/.sbt/boot/scala-2.10.3/lib/scala-library.jar /home/dirceu/projects/dsd/src/main/java/br/unip/dsd/rmi/Mensageiro.java

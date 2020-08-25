@@ -1,0 +1,10 @@
+exit
+gen-idea
+clean
+reload
+compile
+javaHome
+javaSource
+exit
+compile
+exit
